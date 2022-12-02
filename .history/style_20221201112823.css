@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100vw;
+  overflow: hidden;
+}
+
+.logo a {
+  height: 12px;
+  width: 100px;
+}
+
+.desktop {
+  display: initial;
+}
+
+.desktop a {
+  text-decoration: none;
+  padding: 5px 10px;
+  color: black;
+}
+.desktop nav .center {
+  text-align: center;
+}/*# sourceMappingURL=style_20221201112823.css.map */

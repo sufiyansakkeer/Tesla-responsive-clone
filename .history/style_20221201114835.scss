@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100vw;
+    overflow: hidden;
+}
+
+.logo a{
+    // height: 12px;
+    // width: 100px;
+    // overflow: hidden;
+}
+header{
+    
+}
+.desktop{
+    display: none;
+}
+@media (min-width: 1200px) {
+    
+    .desktop{
+        display: initial;
+    }
+}
+
+.desktop{
+
+    a{
+        text-decoration: none;
+        padding: 5px 10px;
+        color: black;
+    }
+    nav{
+        .center{
+            text-align: center;
+        }
+
+        
+    }
+    
+}
